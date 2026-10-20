@@ -4,7 +4,7 @@ movement= wasd
 graphics= good
 physics= realistic
 euphoria= yes
-weapons=g uns,knuives
+weapons= guns,knuives
 name= gta7
 
 if cheaters() then

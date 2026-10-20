@@ -1,12 +1,20 @@
-# 🏄‍♂️ surfing the backend cosmos.
+# 🏄‍♂️ surfing the digital waves.
 
 ```python
-while reality == chaos:
-    compile_perfection()
+class silver_surfer:
+    def __init__(self):
+        self.mode = "menace"
+        self.stack = ["python", "fastapi", "docker", "postgres", "aws"]
+        
+    def run(self):
+        while True:
+            try:
+                self.compile_perfection()
+            except Chaos:
+                self.debug_the_universe()
 ```
 
-## 🛠️ tech stack
-* **languages:** python / c / sql / html / css
-* **frameworks:** fastapi / sqlalchemy
-* **databases:** postgresql / mysql / redis
-* **tools:** docker / git / github / vscode / aws / linux
+## 🛠️ tech
+* **core:** python / fastapi / postgresql / docker / redis
+* **infra:** aws / git / github / linux / vscode
+* **foundations:** c / dsa / sql / clean architecture

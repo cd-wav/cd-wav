@@ -3,14 +3,14 @@
 ### my name is cd, just a guy who likes coding
 
 <p align="center">
-  <img src="https://herokuapp.com" alt="typing svg" />
+  <img src="https://demolab.com" alt="typing svg" />
 </p>
 
-building reliable backend systems with clean architecture and scalable solutions.
+building cold, bulletproof backend infrastructure across the digital board.
 
 ## about me
 
-cd here — a final-year computer engineering student focused on backend development, building scalable apis with python, and learning tools like fastapi, postgresql, docker, and redis.
+cd here — surfing through my final year of computer engineering. completely focused on tearing down complex backend problems and assembling high-performance systems. running clean apis, optimized engines, and pure logic.
 
 ## tech stack
 
@@ -20,4 +20,4 @@ cd here — a final-year computer engineering student focused on backend develop
 
 * python / fastapi / postgresql / mysql
 * docker / git / github / vscode / aws
-* c / html / css
+* c / html / css / data structures

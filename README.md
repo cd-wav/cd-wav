@@ -1,5 +1,3 @@
-### config.py
-
 ```python
 -- gta 7
 movement=("w","a","s","d")

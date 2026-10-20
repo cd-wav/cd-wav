@@ -1,14 +1,15 @@
-```python
+```lua
 -- gta 7
-movement=("w","a","s","d")
-graphics=good
-physics=good
-euphoria=yes
-weapons=guns,knives
-name=("Gta 7")
+movement = {"w", "a", "s", "d"}
+graphics = "good"
+physics  = "good"
+euphoria = true
+weapons  = {"guns", "knives"}
+name     = "Gta 7"
 
-  if cheaters()
-    then ban()
+if cheaters() then
+    ban()
 else
-  haveanicetime("print")
+    print("have a nice time")
+end
 ```

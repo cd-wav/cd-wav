@@ -3,7 +3,7 @@
 ### my name is cd, just a guy who likes coding
 
 <p align="center">
-  <img src="https://demolab.com" alt="typing svg" />
+  <img src="https://herokuapp.com" alt="typing svg" />
 </p>
 
 building reliable backend systems with clean architecture and scalable solutions.

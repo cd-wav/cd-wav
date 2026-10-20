@@ -1,13 +1,9 @@
-<p align="center">
-  <img src="./assets/ascihand-removebg-preview.png" alt="Banner" width="100%">
-</p>
+<h1 align="center">hey there!</h1>
 
-<h1 align="center">Hi 👋, Imma Shady</h1>
-
-<h3 align="center">Backend Developer</h3>
+<h3 align="center">my name is cd, just a guy who likes coding</h3>
 
 <p align="center">
-  <img src= https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying;Just+Code+Nig alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=C9D1D9&center=true&vCenter=true&width=700&height=60&lines=+%3E+Start+Debugging+The+Chaos;%3E+Code+Like+A+Menace;+%3E+If+It+Compiles%2C+It's++Staying" alt="Typing SVG" />
 </p>
 
 <p align="center">
@@ -19,7 +15,7 @@ Building reliable backend systems with clean architecture and scalable solutions
 
 <img align="right" src="./assets/astro-removebg-preview.png" width="280" alt="Developer Illustration"/>
 
-**Shaddy**, Here  — a final-year Computer Engineering student focused on backend development.
+**cd** here — a final-year Computer Engineering student focused on backend development.
 
 I enjoy building scalable, production-ready APIs with Python and continuously improving my understanding of real-world backend systems.
 
@@ -58,13 +54,7 @@ My goal is simple: write clean code, build reliable software, and grow into a so
   &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" height="48" alt="OpenCV" />
   &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" height="48" alt="TensorFlow" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" height="48" alt="PyTorch" />
-  &nbsp;&nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" height="48" alt="Jupyter" />
-  &nbsp;&nbsp;
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" height="48" alt="Google Cloud" />
 </p>
 
 <h2 align="center">📊 GitHub Stats</h2>
@@ -100,6 +90,3 @@ My goal is simple: write clean code, build reliable software, and grow into a so
 <p align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Developer Quote"/>
 </p>
-
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

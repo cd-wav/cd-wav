@@ -1,15 +1,15 @@
 ```lua
 -- gta 7
-movement = {"w", "a", "s", "d"}
-graphics = "good"
-physics  = "good"
-euphoria = true
-weapons  = {"guns", "knives"}
+movement = wasd
+graphics = good
+physics  = realistic
+euphoria = yes
+weapons  = guns,knuives
 name     = "Gta 7"
 
 if cheaters() then
     ban()
 else
-    print("have a nice time")
+    thanksforplaying("print")
 end
 ```

@@ -5,7 +5,7 @@ graphics = good
 physics  = realistic
 euphoria = yes
 weapons  = guns,knuives
-name     = "Gta 7"
+name     = gta7
 
 if cheaters() then
     ban()

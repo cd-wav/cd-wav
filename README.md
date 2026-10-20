@@ -8,7 +8,3 @@
   "status": "active"
 }
 ```
-
-```markdown
----
-`cd /dev/audio`

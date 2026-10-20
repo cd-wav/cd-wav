@@ -1,10 +1,5 @@
-### config.json
+### config.py
 
-```json
-{
-  "user": "cd-wav",
-  "focus": ["audio", "signals", "low-level"],
-  "stack": ["C", "Rust", "Python"],
-  "status": "active"
-}
+```python
+helloworld("print")
 ```
